@@ -11,9 +11,17 @@
                             "title": "Voice_story00#1 (story00_02_main02_010_0010)",
                             "character_name": "不明なキャラクター",
                             "character_enName": "Unknown Character",
-                            "text": "未定義",
+                            "text": "最終防衛ラインの状況は！",
                             "text_en": "undefined",
-                            "localizations": []
+                            "localizations": [],
+                            "character_id": "char_other",
+                            "last_updated_by": {
+                                "id": ".r91",
+                                "username": ".r91",
+                                "global_name": ".r91",
+                                "timestamp": "2025-05-24T09:00:21.862Z",
+                                "contributor_note": ".r91"
+                            }
                         },
                         {
                             "name": "Voice_story00 [2]",

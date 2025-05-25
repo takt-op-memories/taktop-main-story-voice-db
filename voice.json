@@ -18,9 +18,9 @@
                         {
                             "name": "Voice_story00 [2]",
                             "title": "Voice_story00#2 (story00_02_main02_010_0020)",
-                            "character_name": "不明なキャラクター",
-                            "character_enName": "Unknown Character",
-                            "text": "未定義",
+                            "character_name": "警備兵",
+                            "character_enName": "Guard",
+                            "text": "ムジカート多数現着！\nD2の進行を食い止めていますが……！",
                             "text_en": "undefined",
                             "localizations": []
                         },

@@ -216,9 +216,9 @@
                         {
                             "name": "Voice_story00 [24]",
                             "title": "Voice_story00#24 (story00_03_main03_010_0060)",
-                            "character_name": "不明なキャラクター",
-                            "character_enName": "Unknown Character",
-                            "text": "未定義",
+                            "character_name": "運命",
+                            "character_enName": "Destiny",
+                            "text": "ありがとう、ございました。\nあなたの指揮がなければ戦えませんでした。",
                             "text_en": "undefined",
                             "localizations": []
                         },

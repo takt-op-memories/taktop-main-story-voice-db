@@ -43603,9 +43603,9 @@
                         {
                             "name": "Voice_story13 [76]",
                             "title": "Voice_story13#76 (story13_06_main06_010_0010)",
-                            "character_name": "不明なキャラクター",
-                            "character_enName": "Unknown Character",
-                            "text": "未定義",
+                            "character_name": "英雄",
+                            "character_enName": "Eroica",
+                            "text": "至急応援を要請する\nこのままじゃジェノヴァは持たない",
                             "text_en": "undefined",
                             "localizations": []
                         },

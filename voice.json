@@ -43594,9 +43594,9 @@
                         {
                             "name": "Voice_story13 [75]",
                             "title": "Voice_story13#75 (story13_05_main05_010_0040 )",
-                            "character_name": "不明なキャラクター",
-                            "character_enName": "Unknown Character",
-                            "text": "未定義",
+                            "character_name": "管理官ヒルデ",
+                            "character_enName": "Administrator Hilde",
+                            "text": "これがジェノバからの最後の通信だ",
                             "text_en": "undefined",
                             "localizations": []
                         },
